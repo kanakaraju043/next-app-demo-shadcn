@@ -1,0 +1,140 @@
+{
+  "recipes": [
+    {
+      "id": 1,
+      "Name": "Christmas pie",
+      "url": "https://github.com/shadcn.png",
+      "Description": "Combine a few key Christmas flavours here to make a pie that both children and adults will adore",
+      "Author": "Mary Cadogan",
+      "time": 20,
+      "vegan": false
+    },
+    {
+      "id": 2,
+      "Name": "Simmer-&-stir Christmas",
+      "url": "https://github.com/shadcn.png",
+      "Description": "An easy-to-make alternative to traditional Christmas cakes which requires no beating",
+      "Author": "Mary Cadogan",
+      "time": 25,
+      "vegan": true
+    },
+    {
+      "id": 3,
+      "Name": "Christmas cupcakes",
+      "url": "https://github.com/shadcn.png",
+      "Description": "These beautiful and classy little cakes make lovely gifts, and kids will enjoy decorating them too",
+      "Author": "Sara Buenfeld",
+      "time": 20,
+      "vegan": false
+    },
+    {
+      "id": 4,
+      "Name": "Christmas buns",
+      "url": "https://www.bbcgoodfood.com/recipes/1803633/christmas-buns",
+      "Description": "Paul Hollywood's fruit rolls can be made ahead then heated up before adding a glossy glaze and citrus icing",
+      "Author": "Paul Hollywood",
+      "time": 20,
+      "vegan": false
+    },
+    {
+      "id": 5,
+      "Name": "Christmas cupcakes",
+      "url": "https://github.com/shadcn.png",
+      "Description": "Made these for the second time today, and I have to say they turned out great! I've got large muffin tins and the mixture made 15 muffins, will definetely make these again at christmas time and decorate festively.",
+      "Author": "Barney Desmazery",
+      "time": 10,
+      "vegan": true
+    },
+    {
+      "id": 6,
+      "Name": "Christmas slaw",
+      "url": "https://www.bbcgoodfood.com/recipes/890635/christmas-slaw",
+      "Description": "A nutty winter salad which is superhealthy, quick to prepare and finished with a light maple syrup dressing",
+      "Author": "Good Food",
+      "time": 20,
+      "vegan": false
+    },
+    {
+      "id": 7,
+      "Name": "Christmas mess",
+      "url": "https://www.bbcgoodfood.com/recipes/2806664/christmas-mess",
+      "Description": "Delicious and a synch to make! Have made this a couple of times as a dinner party dessert, very pretty as a winter alternative to Eton mess. The fact you use frozen fruits is great, I just used a bog standard pack of frozen mixed berries and added some home made blackberry liqueur. Like other people, I added more cinnamon. Thumbs up!",
+      "Author": "Caroline Hire",
+      "time": 20,
+      "vegan": false
+    },
+    {
+      "id": 8,
+      "Name": "Christmas brownies",
+      "url": "https://github.com/shadcn.png",
+      "Description": "can I made these the day before",
+      "Author": "Miriam Nice",
+      "time": 20,
+      "vegan": true
+    },
+    {
+      "id": 9,
+      "Name": "Christmas cosmopolitan",
+      "url": "https://www.bbcgoodfood.com/recipes/889643/christmas-cosmopolitan",
+      "Description": "How many servings have you gotten using the above measures?",
+      "Author": "Good Food",
+      "time": 20,
+      "vegan": false
+
+    },
+    {
+      "id": 10,
+      "Name": "Christmas pizza",
+      "url": "https://github.com/shadcn.png",
+      "Description": "Use up leftover roast turkey and sausagemeat stuffing in this new spin on an Italian classic",
+      "Author": "Katy Greenwood",
+      "time": 10,
+      "vegan": false
+    },
+    {
+      "id": 11,
+      "Name": "Christmas poussin",
+      "url": "https://www.bbcgoodfood.com/recipes/5028/christmas-poussin",
+      "Description": "Prepare ahead and pop in the oven when your guests arrive. Perfect if you don't want to be tied to the kitchen",
+      "Author": "Barney Desmazery",
+      "time": 20,
+      "vegan": true
+    },
+    {
+      "id": 12,
+      "Name": "Mary Berry's Christmas",
+      "url": "https://www.bbcgoodfood.com/recipes/1158/mary-berrys-christmas-chutney",
+      "Description": "A perfect match for cheese and cold meats, and delicious in turkey sandwiches",
+      "Author": "Mary Berry",
+      "time": 20,
+      "vegan": false
+    },
+    {
+      "id": 13,
+      "Name": "Make & mature Christmas cake",
+      "url": "https://github.com/shadcn.png",
+      "Description": "25 min prep time? More like an hour.",
+      "Author": "James Martin",
+      "time": 20,
+      "vegan": false
+    },
+    {
+      "id": 4,
+      "Name": "Christmas muffin mix",
+      "url": "https://github.com/shadcn.png",
+      "Description": "A festive treat to give or receive",
+      "Author": "Good Food",
+      "time": 10,
+      "vegan": true
+    },
+    {
+      "id": 15,
+      "Name": "Sparkling vanilla Christmas",
+      "url": "https://github.com/shadcn.png",
+      "Description": "Easy to make. I did add a splash of milk though. Fun way to spend a rainy afternoon with the kids.",
+      "Author": "Lesley Waters",
+      "time": 20,
+      "vegan": false
+    }
+  ]
+}
